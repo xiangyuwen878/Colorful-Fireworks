@@ -1,0 +1,10 @@
+    "lightpink",          # 1. 浅粉色
+    "lightsteelblue",     # 5. 浅钢蓝色
+    "lightcyan",          # 6. 浅青色
+    "lavenderblush",      # 7. 淡紫红色
+    "honeydew",           # 8. 替换：蜜露色（比lightgreen更柔和）
+    "aliceblue",          # 10. 替换：爱丽丝蓝（比lightskyblue更柔和）
+    "mintcream",          # 11. 替换：薄荷奶油色（比lightseagreen更柔和）
+    "lightblue",          # 13. 浅蓝色
+    "lavender",           # 14. 薰衣草色
+    "mistyrose"           # 15. 雾玫瑰色
